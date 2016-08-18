@@ -1,0 +1,8 @@
+ÀÄmain
+   ÃÄMAIN  0/42  Ram=0
+   ³  ÃÄ@cinit1  (Inline)  Ram=0
+   ³  ÀÄ??0??
+   ÀÄeventoMoverEsteira  0/32  Ram=2
+      ÀÄmover_esteira  0/40  Ram=3
+         ÃÄ@const66  0/24  Ram=0
+         ÀÄ@delay_ms1  0/42  Ram=1

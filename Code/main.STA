@@ -1,0 +1,49 @@
+
+ROM used: 350 (1%)
+          350 (1%) including unused fragments
+
+          1 Average locations per line
+          23 Average locations per statement
+
+RAM used: 26 (1%) at main() level
+          29 (1%) worst case
+
+Stack used: 3 worst case (out of 30 total available)
+
+Lines Stmts  %   Files
+----- ----- ---  -----
+   58    15 100  main.c
+  464     0   0  ..\..\..\..\..\..\..\..\..\Program Files (x86)\PICC\devices\18F4550.h
+----- -----
+  522    15 Total
+
+Page ROM  %  RAM   Vol Diff  Functions:
+---- --- --- ---   --- ----  ----------
+0     42   6   1             @delay_ms1
+0     24   3   0             @const66
+0     40   6   3   178  4.7  mover_esteira
+0     32   5   2    86  2.1  eventoMoverEsteira
+0     42   6   0    98  2.1  MAIN
+ Inline        0             @cinit1
+
+Program metrics:
+    Functions               3
+    Statements              15
+    Comments                118
+    Volume (V)              494
+    Difficulty (D)          8.2
+    Effort to implement (E) 4060
+    Time to implement (T)   4 minutes
+    Est Delivered Bugs (B)  0
+    Cyclomatic Complexity   1
+    Maintainability (MI)    104
+
+ Segment     Used  Free
+-----------  ----  ----
+00000-00002     4  0  
+00004-00006     0  4  
+00008-000AC   166  0  
+000AE-07CBE   180  31582  
+
+
+
